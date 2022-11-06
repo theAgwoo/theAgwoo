@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @theAgwoo
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning to code js and backend
